@@ -1,9 +1,7 @@
 == RubyComments
 
-A Ruby on Rails demo to simulate a comment/blog website. Database handling done through MySQL, website formatted through HTML, CSS and SASS.
+A *Ruby on Rails* demo to simulate a comment/blog website. Database handling done through *MySQL*, website formatted through *HTML*, *CSS* and *SASS*.
 
 Demo was generated with the reasonably latest version of Ruby. SASS was added for better appearance.
 
-As always, you assume any risk of using this on your website. Please make sure you check the _database.yml_ file in the _config_ folder to confirm the proper host, socket, database, and usename/password values you wish to use (especially if you are going to attempt to put this into production).
-
-<tt>rake doc:app</tt>.
+As always, you assume any risk of using this on your website. Please make sure you check the _database.yml_ file in the _config_ folder to confirm the proper host, socket, database, and usename/password values you wish to use (*especially* if you plan to put this in production environments).
